@@ -24,5 +24,5 @@ char printmsg(char msg)
 {
   printf();
   
-  return printf;
+  return;
 }

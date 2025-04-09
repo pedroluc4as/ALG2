@@ -4,9 +4,9 @@ e escreva-o na tela
 #include <stdio.h>
 #include "mylibrary.h"
 
-char printmsg(char msg)
+char printmsg(char msg[''])
 {
-  printf();
+  printf("%c ",&char['']);
   
   return printf;
 }
@@ -14,6 +14,8 @@ char printmsg(char msg)
 int main(){
 
 char msg = 0;
+printf("digite um texto:\n");
+
 
 
 return 0;
